@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.26.26",
+  "versionCode": 7,
+  "versionName": "1.26.27",
   "forceUpdate": false,
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.ponpesalberr.kalenderalberr",
-  "changelog": "- Perubahan volume suara adzan mengkikuti mode notif HP."
+  "changelog": "- Penyempurnaan tampilan, jika menemukan bug, kekeliruan, atau masukan harap segera lapor ke nomor WhatsApp berikut: 085163128047."
 }
