@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image_url": "https://your-github-repo.com/banner1.jpg",
+    "image_url": "https://github.com/alberrserver/alberr_digital/blob/main/banner/banner1.png",
     "action_type": "web_url",
     "action_url": "https://ponpesalberr.my.id/pendaftaran"
   },
