@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://your-github-repo.com/banner1.jpg",
+    "action_type": "web_url",
+    "action_url": "https://ponpesalberr.my.id/pendaftaran"
+  },
+  {
+    "id": 2,
+    "image_url": "https://your-github-repo.com/banner2.jpg",
+    "action_type": "fragment",
+    "action_url": "nav_calendar"
+  }
+]
