@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "image_url": "https://github.com/alberrserver/alberr_digital/blob/main/banner/banner1.png",
+    "image_url": "https://raw.githubusercontent.com/alberrserver/alberr_digital/refs/heads/main/banner/banner1.png",
     "action_type": "web_url",
     "action_url": "https://ponpesalberr.my.id/pendaftaran"
   },
   {
     "id": 2,
-    "image_url": "https://github.com/alberrserver/alberr_digital/blob/main/banner/sosmed.png",
+    "image_url": "https://raw.githubusercontent.com/alberrserver/alberr_digital/refs/heads/main/banner/sosmed.png",
     "action_type": "web_url",
     "action_url": "https://ponpesalberr.my.id/pendaftaran"
   }
