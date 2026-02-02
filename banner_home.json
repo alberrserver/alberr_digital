@@ -8,7 +8,7 @@
   {
     "id": 2,
     "image_url": "https://raw.githubusercontent.com/alberrserver/alberr_digital/refs/heads/main/banner/sosmed.png",
-    "action_type": "web_url",
-    "action_url": "https://ponpesalberr.my.id/pendaftaran"
+    "action_type": "fragment",
+    "action_url": "nav_follow_us"
   }
 ]
